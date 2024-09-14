@@ -1,5 +1,5 @@
 # Early-detection-of-Parkinson's-Disease-using-Random-Forest-Algorithm
-As a part of the Final Year Project for B.Tech degree, A team of three people, me as the Team Lead, developed a Project aimed to predict Parkinson's Disease in a patient using one of the popular ML algorithm, Random Forest Algorithm, by considering few medical attributes in a web application, which would display the test result as either positive or negative.
+Developed a Project aimed to predict Parkinson's Disease in a patient using one of the popular ML algorithm, Random Forest Algorithm, by considering few medical attributes in a web application, which would display the test result as either positive or negative.
 
 Project Title:
 Early detection of Parkinson’s Disease using Random Forest Algorithm
